@@ -22,4 +22,5 @@ Modern web teknolojileri, API mimarileri ve otomasyon altyapıları üzerine uzm
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eaukesh&show_icons=true)
+![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=Eaukesh&show_icons=true&cache_seconds=1800)
+
