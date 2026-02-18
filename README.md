@@ -22,7 +22,10 @@ Frontend, backend, e-ticaret entegrasyonları ve otomasyon altyapıları üzerin
 
 ### Programlama Dilleri & Altyapılar
 
-![Tech Stack](https://skillicons.dev/icons?i=js,nodejs,html,css,tailwind,bootstrap,express,git,github,docker)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
+![REST API](https://img.shields.io/badge/REST_API-000?logo=api)
+
 
 - JavaScript (ES6+)
 - Node.js
