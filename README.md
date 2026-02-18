@@ -8,7 +8,7 @@ API entegrasyonları, gerçek zamanlı sistemler ve e-ticaret altyapıları üze
 
 ---
 
-## 🚀 Teknoloji Yetkinlikleri
+## Teknoloji Yetkinlikleri
 
 ![Tech Stack](https://skillicons.dev/icons?i=js,nodejs,html,css,tailwind,bootstrap,express,git,github,docker)
 
@@ -18,14 +18,6 @@ API entegrasyonları, gerçek zamanlı sistemler ve e-ticaret altyapıları üze
 - WooCommerce Özel Geliştirme
 - Ödeme Entegrasyonları
 - Süreç Otomasyonu & Bot Sistemleri
-
----
-
-## ⚙️ Odak Noktam
-
-- Modüler ve sürdürülebilir mimari  
-- Temiz ve optimize edilmiş kod  
-- İş odaklı yazılım geliştirme  
 
 ---
 
