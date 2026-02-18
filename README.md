@@ -4,20 +4,21 @@
 Frontend • Backend • E-Ticaret • Otomasyon
 
 Ölçeklenebilir, performans odaklı ve ticari değer üreten yazılım sistemleri geliştiriyorum.  
-API entegrasyonları, gerçek zamanlı sistemler ve e-ticaret altyapıları üzerine uzmanlaşmış durumdayım.
+Modern web teknolojileri, API mimarileri ve otomasyon altyapıları üzerine uzmanlaşmış durumdayım.
 
 ---
 
-## Teknoloji Yetkinlikleri
+## 🚀 Teknoloji Yetkinlikleri
 
-![Tech Stack](https://skillicons.dev/icons?i=js,nodejs,html,css,tailwind,bootstrap,express,git,github,docker)
+![Tech Stack](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,python,dotnet,html,css,tailwind,bootstrap,express,git,github,docker)
 
 **Başlıca Yetkinlikler**
-- JavaScript & Node.js
-- REST API & WebSocket
+- JavaScript, React, Next.js
+- Node.js & REST API Mimarisi
+- Python & .NET Backend Geliştirme
+- WebSocket & Gerçek Zamanlı Sistemler
 - WooCommerce Özel Geliştirme
-- Ödeme Entegrasyonları
-- Süreç Otomasyonu & Bot Sistemleri
+- Ödeme Entegrasyonları & Süreç Otomasyonu
 
 ---
 
