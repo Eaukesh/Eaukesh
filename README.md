@@ -1,109 +1,79 @@
 # Ahmet Boyraz
 
-Full-Stack Software Engineer | E-Commerce & Automation Architect  
-Scalable Systems • API Integrations • Real-Time Applications
+## Full-Stack Yazılım Geliştirici | E-Ticaret & Otomasyon Sistemleri
+
+Ölçeklenebilir, performans odaklı ve ticari değeri olan yazılım sistemleri geliştiriyorum.  
+Frontend, backend, e-ticaret entegrasyonları ve otomasyon altyapıları üzerine uçtan uca çözümler üretiyorum.
 
 ---
 
-## About Me
+## 🚀 Uzmanlık Alanları
 
-I design and develop end-to-end software systems with a strong focus on scalability, performance, and business impact.  
-My expertise spans frontend, backend, automation systems, and advanced e-commerce integrations.
-
-I build production-ready architectures — not just code.
+- Frontend Uygulama Geliştirme
+- Backend & API Mimarisi
+- E-Ticaret Sistemleri (WooCommerce Özel Geliştirme)
+- Ödeme Sistemi Entegrasyonları
+- Gerçek Zamanlı Sistemler (WebSocket)
+- Süreç Otomasyonu & Bot Geliştirme
 
 ---
 
-## Core Expertise
+## 💻 Teknoloji Yetkinlikleri
 
-### Frontend Development
+### Programlama Dilleri & Altyapılar
+
+![Tech Stack](https://skillicons.dev/icons?i=js,nodejs,html,css,tailwind,bootstrap,express,git,github,docker)
+
 - JavaScript (ES6+)
-- HTML5 / CSS3
-- Tailwind CSS
-- Bootstrap
-- Responsive & Component-Based UI Design
-
-### Backend Development
 - Node.js
-- RESTful API Architecture
-- WebSocket / Real-Time Systems
-- Authentication & Authorization Systems
-- Server Optimization & Performance Handling
-
-### E-Commerce Systems
-- WooCommerce Custom Development
-- Payment Gateway Integrations
-- API-based Order Automation
-- Custom Plugin Development
-- Checkout Flow Optimization
-
-### Automation & Integration
-- API Automation Systems
-- Web Automation Bots
-- Data Synchronization Services
-- Background Job Processing
-- Process Optimization Tools
-
----
-
-## Technology Stack
-
-**Languages & Core Technologies**
-- JavaScript
-- Node.js
-- REST API
+- REST API Mimarisi
 - WebSocket
-- HTML
-- CSS
-
-**Frameworks & Tools**
+- HTML5 & CSS3
 - Tailwind CSS
 - Bootstrap
 - Express.js
-- Git & GitHub
-- Docker (basic deployment workflows)
 
 ---
 
-## Selected Projects
+## 🏗️ Öne Çıkan Projeler
 
-### Custom WooCommerce Payment Gateway
-Advanced payment integration with dynamic callback validation and order status automation.
+### 🔹 WooCommerce Özel Ödeme Entegrasyonu
+API tabanlı dinamik doğrulama ve sipariş durum otomasyonu içeren özel ödeme altyapısı.
 
-### Real-Time Communication System
-WebSocket-based live data transmission architecture with scalable event handling.
+### 🔹 Gerçek Zamanlı Veri Sistemi
+WebSocket tabanlı, yüksek performanslı canlı veri iletim altyapısı.
 
-### Automation Bot Framework
-Process automation system designed to handle multi-step workflows with fault tolerance.
+### 🔹 Otomasyon Bot Framework
+Çok adımlı iş süreçlerini hata toleranslı şekilde yöneten otomasyon sistemi.
 
-### REST API Infrastructure
-Modular backend architecture designed for high-performance e-commerce environments.
-
----
-
-## Engineering Principles
-
-- Clean and modular architecture
-- Scalable system design
-- Business-oriented development
-- Automation-first mindset
-- Performance optimization focus
+### 🔹 Modüler REST API Altyapısı
+Yüksek trafikli e-ticaret projeleri için optimize edilmiş backend mimarisi.
 
 ---
 
-## GitHub Analytics
+## ⚙️ Çalışma Prensipleri
+
+- Modüler ve sürdürülebilir mimari
+- Temiz ve okunabilir kod standardı
+- Performans optimizasyonu
+- İş odaklı yazılım geliştirme
+- Otomasyon öncelikli yaklaşım
+
+---
+
+## 📊 GitHub İstatistikleri
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eaukesh&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eaukesh&layout=compact)
 
 ---
 
-## Contact
+## 📫 İletişim
 
-- LinkedIn: (add your link)
-- Website: (add your link)
-- Email: (professional email)
+- LinkedIn: (profil linki)
+- Web Sitesi: (varsa)
+- E-posta: (profesyonel mail)
 
 ---
 
-> Building systems that scale. Automating what slows businesses down.
+> Ölçeklenen sistemler, otomatikleşen süreçler ve sürdürülebilir yazılım mimarileri geliştiriyorum.
