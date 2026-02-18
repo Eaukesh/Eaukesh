@@ -1,10 +1,10 @@
 # Ahmet Boyraz
 
-### Full-Stack Yazılım Geliştirici  
+### Full-Stack
 Frontend • Backend • E-Ticaret • Otomasyon
 
 Ölçeklenebilir, performans odaklı ve ticari değer üreten yazılım sistemleri geliştiriyorum.  
-Modern web teknolojileri, API mimarileri ve otomasyon altyapıları üzerine uzmanlaşmış durumdayım.
+Modern web teknolojileri, API mimarileri ve otomasyon altyapıları üzerine projeler geliştiriyorum.
 
 ---
 
@@ -18,9 +18,8 @@ Modern web teknolojileri, API mimarileri ve otomasyon altyapıları üzerine uzm
 - Python & .NET Backend Geliştirme
 - WebSocket & Gerçek Zamanlı Sistemler
 - WooCommerce Özel Geliştirme
+- Wordpress Modül Geliştirme
 - Ödeme Entegrasyonları & Süreç Otomasyonu
 
 ---
-
-![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=Eaukesh&show_icons=true&cache_seconds=1800)
 
